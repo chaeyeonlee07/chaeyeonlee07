@@ -4,7 +4,6 @@
 
 <h4 align="left"> 💫 Experience </h4>
 <ul>
-  <li><b>Quantitative Research Intern</b> at Wavebridge, Seoul, Korea</li>
   <li><b>Data Science Research Intern</b> under Professor Adam Badawi at UC Berkeley Law</li>
   <li><b>Statistics Research Intern</b> under Professor Elizabeth Purdom's Biostatistics Research Group</li>
 </ul> 
