@@ -2,12 +2,12 @@
 <h4 align="left">Hi 👋, I'm Chae Yeon Lee</h4>
 <p1 align="left"> I am a passionate student studying math and CS at UC Berkeley. I am interested in data science, statistics, and problem solving in general. My hobbies are exercising and drawing!</p1>
 
-<h4 align="left"> 💫 Experience </h4>
+<!-- <h4 align="left"> 💫 Experience </h4>
 <ul>
   <li><b>Data Science Research Intern</b> under Professor Adam Badawi at UC Berkeley Law</li>
   <li><b>Statistics Research Intern</b> under Professor Elizabeth Purdom's Biostatistics Research Group</li>
 </ul> 
-
+ -->
 <h4 align="left"> ✨ Summary </h4> 
 <ul>
 <li>📝 I write notes on <a href="https://hackmd.io/@lcylsy072">HackMd</a></li>
