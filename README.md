@@ -2,12 +2,19 @@
 <h4 align="left">Hi 👋, I'm Chae Yeon Lee</h4>
 <p1 align="left"> I am a passionate student studying math and CS at UC Berkeley. I am interested in data science, statistics, and problem solving in general. My hobbies are exercising and drawing!</p1>
 
-<!-- <h4 align="left"> 💫 Experience </h4>
+ <h4 align="left"> 💫 Experience </h4>
 <ul>
   <li><b>Data Science Research Intern</b> under Professor Adam Badawi at UC Berkeley Law</li>
   <li><b>Statistics Research Intern</b> under Professor Elizabeth Purdom's Biostatistics Research Group</li>
 </ul> 
- -->
+ 
+<h4 align="left"> 🏆 Recent Achievement </h4>
+
+<ul> 
+<li> Separating Financial Fact from Opinion using Bidirectional Encoder Representations from Transformers (BERT) project won <strong>Ribbon of Excellence</strong> among 144 projects for 2023 Spring Data Discovery Program! The award recongizes a team that submits a project that excels at all of the components of the data science lifecycle from asking a question, obtaining data, understanding the data, to using these data to gain insights about the project domain and eventually implement solutions based on these insights.  
+</ul>  
+
+ 
 <h4 align="left"> ✨ Summary </h4> 
 <ul>
 <li>📝 I write notes on <a href="https://hackmd.io/@lcylsy072">HackMd</a></li>
