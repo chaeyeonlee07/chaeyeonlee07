@@ -17,7 +17,7 @@
  
 <h4 align="left"> ✨ Summary </h4> 
 <ul>
-<li>📝 I write notes on <a href="https://hackmd.io/@lcylsy072">HackMd</a></li>
+<!-- <li>📝 I write notes on <a href="https://hackmd.io/@lcylsy072">HackMd</a></li> -->
  
 <li> 📫 My email is lcylsy0725@gmail.com <a href = "mailto: lcylsy0725@gmail.com">Send Email</a> </li>
 </ul>
