@@ -3,6 +3,8 @@
 <p1 align="left"> I am a passionate student studying math and CS at UC Berkeley. I am interested in data science, statistics, and problem solving in general. My hobbies are exercising and drawing!</p1>
 
 <h4 align="left"> 🍠🥟 Currently (May 16th) Learning JavaScript!~~~ Very excited to learn new concepts and skills over this break 🍩
+ My study notes can be found in a new🍯 Repo called JavaScript Chrome App
+ 
  <h4 align="left"> 💫 Experience </h4>
 <ul>
   <li><b>Data Science Research Intern</b> under Professor Adam Badawi at UC Berkeley Law</li>
