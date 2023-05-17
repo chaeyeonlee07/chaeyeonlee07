@@ -1,5 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=chaeyeonlee07&label=Profile%20views&color=0e75b6&style=flat" alt="chaeyeonlee07" /> </p>
 <h4 align="left">Hi 👋, I'm Chae Yeon Lee</h4>
+Welcome to my brand new 🥕 github!!! 🥨
+
 <p1 align="left"> I am a passionate student studying math and CS at UC Berkeley. I am interested in data science, statistics, and problem solving in general. My hobbies are exercising and drawing!</p1>
 
 <h4 align="left"> 🍠🥟 Currently (May 16th) Learning JavaScript!~~~ Very excited to learn new concepts and skills over this break 🍩
