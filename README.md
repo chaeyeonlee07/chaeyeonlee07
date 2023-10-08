@@ -9,6 +9,7 @@ Welcome to my brand new 🥕 github!!! 🥨
  
  <h4 align="left"> 💫 Experience </h4>
 <ul>
+  <li><b>STEP Intern</b> at Google TensorFlow Extended (TFX) team</li> 
   <li><b>Data Science Research Intern</b> under Professor Adam Badawi at UC Berkeley Law</li>
   <li><b>Statistics Research Intern</b> under Professor Elizabeth Purdom's Biostatistics Research Group</li>
 </ul> 
