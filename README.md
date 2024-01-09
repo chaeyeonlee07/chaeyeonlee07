@@ -17,6 +17,7 @@ Welcome to my brand new 🥕 github!!! 🥨
 
 <ul> 
 <li> Separating Financial Fact from Opinion using Bidirectional Encoder Representations from Transformers (BERT) project won <strong>Ribbon of Excellence</strong> among 144 projects for 2023 Spring Data Discovery Program! The award recongizes a team that submits a project that excels at all of the components of the data science lifecycle from asking a question, obtaining data, understanding the data, to using these data to gain insights about the project domain and eventually implement solutions based on these insights.  
+ <li> Participated in <a href="https://www.impactlabs.io/fellowship">  Impact Fellowship  </a> where I developed a mobile nature scavenger hunt game to bring people out in nature using Flutter! 
 </ul>  
 
  
