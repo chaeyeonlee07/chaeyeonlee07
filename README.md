@@ -20,6 +20,15 @@
  <li> Participated in <a href="https://www.impactlabs.io/fellowship">  Impact Fellowship  </a> where I developed a mobile nature scavenger hunt game to bring people out in nature using Flutter! 
 </ul>  
 
+
+<h4 align="left"> 🏆 Recent Project </h4>
+
+<ul> 
+<li> <a href="https://bookmark-generator.vercel.app/"> Build up your Custom bookmark </a>
+<li> Chrome extension -- Happy Moments (public github repo)
+</ul>  
+
+
  
 <h4 align="left"> ✨ Summary </h4> 
 <ul>
